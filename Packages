@@ -1,0 +1,14 @@
+Package: com.kysnpl.localinappstore
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: R5 <thisiisshit@bk.ru>
+Depends: firmware (<5.0)
+Architecture: iphoneos-arm
+Filename: ./debs/LocalinappStore.deb
+Size: 71170
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Description: Free In-App purchases!
+Name: FreePurch
+Author: r5 <thisiisshit@bk.ru>
+Depiction: 
+
